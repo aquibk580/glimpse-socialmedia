@@ -71,7 +71,7 @@ const AddPost = () => {
                   onClick={() => open()}
                 >
                   <Image
-                    src="/addImage.png"
+                    src="/addimage.png"
                     width={20}
                     height={20}
                     alt="add_photo"
@@ -91,7 +91,7 @@ const AddPost = () => {
             Poll
           </div>
           <div className="flex items-center gap-2 cursor-pointer">
-            <Image src="/addEvent.png" width={20} height={20} alt="add_photo" />
+            <Image src="/addevent.png" width={20} height={20} alt="add_photo" />
             Event
           </div>
         </div>
